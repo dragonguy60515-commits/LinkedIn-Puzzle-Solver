@@ -1,2 +1,1 @@
-# LinkedIn-Puzzle-Solver
-Queens
+# LinkedIn-Puzzle-Solver - Queens
